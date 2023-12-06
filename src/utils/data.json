@@ -1,0 +1,344 @@
+[
+  {
+    "semestre": 1,
+    "dia": 3,
+    "turno": "N34",
+    "id_da_aula": "1",
+    "nome_da_aula": "PC",
+    "sala": "AD",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 3,
+    "turno": "N34",
+    "id_da_aula": "1",
+    "nome_da_aula": "VGA",
+    "sala": "AB",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 3,
+    "turno": "N34",
+    "id_da_aula": "3",
+    "nome_da_aula": "VGA",
+    "sala": "AA",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 5,
+    "turno": "N34",
+    "id_da_aula": "1",
+    "nome_da_aula": "PC",
+    "sala": "AD",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 5,
+    "turno": "N34",
+    "id_da_aula": "1",
+    "nome_da_aula": "VGA",
+    "sala": "AB",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 5,
+    "turno": "N34",
+    "id_da_aula": "3",
+    "nome_da_aula": "VGA",
+    "sala": "AA",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 3,
+    "turno": "N12",
+    "id_da_aula": "2",
+    "nome_da_aula": "PC",
+    "sala": "AA",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 3,
+    "turno": "N12",
+    "id_da_aula": "3",
+    "nome_da_aula": "PC",
+    "sala": "AD",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 3,
+    "turno": "N12",
+    "id_da_aula": "4",
+    "nome_da_aula": "PC",
+    "sala": "AB",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 3,
+    "turno": "N12",
+    "id_da_aula": "2",
+    "nome_da_aula": "VGA",
+    "sala": "AC",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 3,
+    "turno": "N12",
+    "id_da_aula": "4",
+    "nome_da_aula": "VGA",
+    "sala": "AF",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 5,
+    "turno": "N12",
+    "id_da_aula": "2",
+    "nome_da_aula": "PC",
+    "sala": "AA",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 5,
+    "turno": "N12",
+    "id_da_aula": "3",
+    "nome_da_aula": "PC",
+    "sala": "AD",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 5,
+    "turno": "N12",
+    "id_da_aula": "4",
+    "nome_da_aula": "PC",
+    "sala": "AB",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 5,
+    "turno": "N12",
+    "id_da_aula": "2",
+    "nome_da_aula": "VGA",
+    "sala": "AC",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 5,
+    "turno": "N12",
+    "id_da_aula": "4",
+    "nome_da_aula": "VGA",
+    "sala": "AF",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 2,
+    "turno": "N12",
+    "id_da_aula": "1",
+    "nome_da_aula": "C1",
+    "sala": "AE",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 2,
+    "turno": "N12",
+    "id_da_aula": "2",
+    "nome_da_aula": "C1",
+    "sala": "AB",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 2,
+    "turno": "N12",
+    "id_da_aula": "1",
+    "nome_da_aula": "PLE1",
+    "sala": "AA",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 4,
+    "turno": "N12",
+    "id_da_aula": "1",
+    "nome_da_aula": "C1",
+    "sala": "AE",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 4,
+    "turno": "N12",
+    "id_da_aula": "2",
+    "nome_da_aula": "C1",
+    "sala": "AB",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 4,
+    "turno": "N12",
+    "id_da_aula": "3",
+    "nome_da_aula": "QG",
+    "sala": "AA",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 4,
+    "turno": "N12",
+    "id_da_aula": "4",
+    "nome_da_aula": "QG",
+    "sala": "AC",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 2,
+    "turno": "N34",
+    "id_da_aula": "3",
+    "nome_da_aula": "C1",
+    "sala": "AE",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 2,
+    "turno": "N34",
+    "id_da_aula": "4",
+    "nome_da_aula": "C1",
+    "sala": "AB",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 2,
+    "turno": "N34",
+    "id_da_aula": "2",
+    "nome_da_aula": "PLE1",
+    "sala": "AC",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 2,
+    "turno": "N34",
+    "id_da_aula": "3",
+    "nome_da_aula": "PLE1",
+    "sala": "AA",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 4,
+    "turno": "N34",
+    "id_da_aula": "3",
+    "nome_da_aula": "C1",
+    "sala": "AE",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 4,
+    "turno": "N34",
+    "id_da_aula": "4",
+    "nome_da_aula": "C1",
+    "sala": "AB",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 4,
+    "turno": "N34",
+    "id_da_aula": "1",
+    "nome_da_aula": "QG",
+    "sala": "AF",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 4,
+    "turno": "N34",
+    "id_da_aula": "2",
+    "nome_da_aula": "QG",
+    "sala": "AC",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 6,
+    "turno": "N34",
+    "id_da_aula": "1",
+    "nome_da_aula": "QG",
+    "sala": "AF",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 6,
+    "turno": "N34",
+    "id_da_aula": "2",
+    "nome_da_aula": "QG",
+    "sala": "AC",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 6,
+    "turno": "N34",
+    "id_da_aula": "2",
+    "nome_da_aula": "CTS",
+    "sala": "AB",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 6,
+    "turno": "N34",
+    "id_da_aula": "3",
+    "nome_da_aula": "CTS",
+    "sala": "AA",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 6,
+    "turno": "N12",
+    "id_da_aula": "3",
+    "nome_da_aula": "QG",
+    "sala": "AA",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 6,
+    "turno": "N12",
+    "id_da_aula": "4",
+    "nome_da_aula": "QG",
+    "sala": "AC",
+    "espaco_da_sala": 140
+  },
+  {
+    "semestre": 1,
+    "dia": 6,
+    "turno": "N12",
+    "id_da_aula": "1",
+    "nome_da_aula": "CTS",
+    "sala": "AD",
+    "espaco_da_sala": 140
+  }
+]
